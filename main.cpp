@@ -5,6 +5,11 @@ int multiply(int a, int b)
     return a * b;
 }
 
+int multiply(int a, int b, int c)
+{
+    return a * b * c;
+}
+
 int main()
 {
     std::cout << "Hello 超級貓貓男!" << std::endl;
