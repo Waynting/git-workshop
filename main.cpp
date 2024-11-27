@@ -14,5 +14,6 @@ int main()
 {
     std::cout << "Hello 超級貓貓男!" << std::endl;
     std::cout << "5 * 6 = " << multiply(5, 6) << std::endl;
+    std::cout << "5 * 6 * 7 = " << multiply(5, 6, 7) << std::endl;
     return 0;
 }
